@@ -21,7 +21,7 @@ High-quality, deadline-driven development using industry frameworks. Agile colla
 🔗 Let’s Collaborate:
 Open to projects in APIs, AI-driven apps, or full-stack development. Always learning, always building!
 
-📫 Reach me: <a href="https://www.linkedin.com/in/hamza-mehmood-php-web-developer/">LinkedIn</a> | <a mailto="hamzamehmood7@gmail.com">Email</a>
+📫 Reach me: <a href="https://www.linkedin.com/in/hamza-mehmood-php-web-developer/">LinkedIn</a> | <a href="mailto:hamzamehmood7@gmail.com">Email</a>
 <!---
 Hamzii982/Hamzii982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

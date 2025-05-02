@@ -6,7 +6,7 @@ With a BS (Hons.) in Computer Science and 5+ years as a DevOps Engineer, I craft
 
 Frontend: ReactJS, JavaScript, HTML/CSS, jQuery
 
-Backend: PHP (Laravel, Symfony), Python (Django), C++, WordPress
+Backend: PHP (Laravel, Symfony), Python (Django), C++, WordPress, TYPO3
 
 Databases: MySQL, SQLite
 

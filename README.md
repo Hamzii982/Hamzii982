@@ -1,8 +1,8 @@
 👋 Hi, I’m Hamza (Hamzii982)
-Master's Student in Intelligent Systems @ RPTU Kaiserslautern | Full-Stack Developer
+Master's Graduate in Computer Science @ RPTU Kaiserslautern | Skilled Full-Stack Developer
 
 💻 Tech Journey:
-With a BS (Hons.) in Computer Science and 5+ years as a DevOps Engineer, I craft scalable solutions across the stack:
+With a BS (Hons.) in Computer Science and 4+ years as a DevOps Engineer, I craft scalable solutions across the stack:
 
 Frontend: ReactJS, JavaScript, HTML/CSS, jQuery
 
@@ -13,10 +13,10 @@ Databases: MySQL, SQLite
 DevOps & Tools: AWS, Linux Shell, Git, Jira, API-integration (OAuth, Google Services)
 
 🌱 Current Focus:
-Pursuing my Master's in Intelligent Systems while diving deeper into AI-driven development, automation, and scalable architecture. Passionate about refining APIs, optimizing software, and building intelligent solutions.
+Pursuing my career in Software Development while diving deeper into AI-driven development, automation, and scalable architecture. Passionate about refining APIs, optimizing software, and building intelligent solutions.
 
 🚀 Workflow:
-High-quality, deadline-driven development using industry frameworks. Agile collaboration via Git, GitHub, and Jira—from prototyping to QA.
+High-quality, deadline-driven development using industry frameworks. Agile collaboration via Git, GitHub, and Jira from prototyping to QA.
 
 🔗 Let’s Collaborate:
 Open to projects in APIs, AI-driven apps, or full-stack development. Always learning, always building!
